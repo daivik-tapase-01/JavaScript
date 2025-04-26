@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "project-1": "file:",
     "prompt-sync": "^4.2.0"
   }
 }
