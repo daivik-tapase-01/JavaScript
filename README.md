@@ -1,9 +1,14 @@
-# Cyberpunk Racer Game
+# JavaScript Projects Repository
+
+This repository contains multiple JavaScript-based projects, each in its own folder. Below is an overview of the projects included:
+
+---
+
+## **1. Cyberpunk Racer Game**
 
 A fast-paced action game where players control a futuristic racer, dodging obstacles in a cyberpunk-themed environment. The game features dynamic difficulty progression, score tracking, and engaging sound effects.
 
-## Features
-
+### Features
 - Smooth character animations
 - Progressive difficulty (obstacles speed up as you score points)
 - Real-time score tracking
@@ -12,34 +17,49 @@ A fast-paced action game where players control a futuristic racer, dodging obsta
 - Visual effects including shadows and hover animations
 - Game over state with restart option
 
-## Controls
-
+### Controls
 - **↑ (Up Arrow)**: Jump
 - **← (Left Arrow)**: Move left
 - **→ (Right Arrow)**: Move right
 
-2. Ensure all image and sound files are in their respective directories:
-   - Place background GIF, racer sprite, and obstacle images in the `Images/` directory
-   - Place sound files in the `Sounds/` directory
+---
 
-3. Open `index.html` in a modern web browser
+## **2. Rock Paper Scissors Game**
 
-## Gameplay
+A simple implementation of the classic Rock Paper Scissors game where players can compete against the computer.
 
-1. The game starts automatically when the page loads
-2. Control your racer to avoid incoming obstacles
-3. Score points by successfully avoiding obstacles
-4. The game gets progressively harder as your score increases
-5. Game ends upon collision with an obstacle
-6. Reload the page to restart the game
+### Features
+- Interactive UI with buttons for Rock, Paper, and Scissors
+- Randomized computer choices
+- Displays the winner of each round
+- Tracks the score of the player and the computer
 
-## Browser Compatibility
+---
 
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
+## **3. Tic Tac Toe Game**
 
-## Contributing
+A two-player Tic Tac Toe game where players take turns marking spaces on a 3x3 grid.
 
-Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+### Features
+- Interactive grid for gameplay
+- Highlights the winner or declares a draw
+- Reset button to start a new game
+
+---
+
+## **4. Betting Logic**
+
+A simple betting logic implementation where users can simulate betting scenarios.
+
+### Features
+- Basic betting mechanics
+- Randomized outcomes
+- Displays results of each bet
+
+---
+
+## How to Run the Projects
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/daivik-tapase-01/JavaScript.git
